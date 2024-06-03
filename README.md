@@ -5,8 +5,8 @@ I'm a Software Engineer with a wealth of expertise in solving real-world challen
 ## My Tech Stack
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
