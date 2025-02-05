@@ -1,6 +1,6 @@
 # Hi, I'm Ewan Stott
 
-I'm a Software Engineer with a wealth of expertise in solving real-world challenges. My specialties are React, Node.js, Typescript, SQL and NoSQL for frontend and backend development. 
+My specialties are React, Typescript, Node.js for frontend and backend development. 
 
 ## My Tech Stack
 
@@ -34,13 +34,10 @@ I'm a Software Engineer with a wealth of expertise in solving real-world challen
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-2C78B7?logo=sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4A4A4A?logo=sqlalchemy&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-00599C?logo=apache-cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![GraphCMS](https://img.shields.io/badge/-GraphCMS-00D171?logo=graphcms&logoColor=white)
@@ -49,24 +46,17 @@ I'm a Software Engineer with a wealth of expertise in solving real-world challen
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-4FC08D?logo=vite&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-4FC08D?logo=vite&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
 
 ### DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=aws-lambda&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-64C8E5?logo=render&logoColor=white)
-![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
