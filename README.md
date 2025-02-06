@@ -1,6 +1,6 @@
 # Hi, I'm Ewan Stott
 
-My specialties are React, Typescript, Node.js for frontend and backend development. 
+My specialties are Javascript/Typescript, React for frontend and backend development. 
 
 ## My Tech Stack
 
