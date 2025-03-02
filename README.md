@@ -1,7 +1,5 @@
 # Hi, I'm Ewan Stott
 
-My specialties are Javascript/Typescript, React. 
-
 ## My Tech Stack
 
 ### Languages
